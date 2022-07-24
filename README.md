@@ -7,7 +7,7 @@
 
 ### EN-English
 ### "Cris" virtual assistant
-* Initial functions:
+### Initial functions:
 - Tell time: using the voice command "cris que horas são".
 - Inform search through (Wikipedia): using the voice command "procure por"+ "pesquisa desejada".
 - Search and open video on YouTube: Using voice command "Toque"+ "nome da musica" *
