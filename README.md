@@ -1,3 +1,4 @@
+# Python 3.10.5
 ## "Cris" assistente virtual
 ### PT-BR
 ### Funções iniciais:
